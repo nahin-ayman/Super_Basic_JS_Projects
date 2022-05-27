@@ -1,0 +1,19 @@
+@media only screen and (max-width:260px) {
+    .container {
+        height: 340px;
+        margin-top: 90px;
+    }
+    h1 {
+        padding: 25px 20px;
+    }
+    .nav-bar h2 {
+        font-size: 18px;
+    }
+    footer {
+        bottom: 5px;
+    }
+    footer p {
+        font-size: 14px;
+        padding: 0 5px;
+    }
+}
